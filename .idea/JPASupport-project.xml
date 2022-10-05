@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoGeneratorSettingsState">
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="moduleName" value="kubernate" />
+    <option name="moduleNameToSettings">
+      <map>
+        <entry key="kubernate">
+          <value>
+            <ModuleSettings>
+              <option name="controllerParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="dtoPackageName" value="com.example.microserviciousuario.dto" />
+              <option name="dtoParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="entityPackageName" value="com.example.microserviciocar.entity" />
+              <option name="entityParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="mapperXmlParentDirectory" value="C:\Users\diego\OneDrive\Escritorio\kubernate\src\main\resources" />
+              <option name="repositoryPackageName" value="com.example.microserviciocar.repository" />
+              <option name="repositoryParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="servicePackageName" value="com.example.microserviciousuario.service" />
+              <option name="serviceParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="voParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="DatabaseSettingsState">
+    <option name="language" value="es-ES" />
+  </component>
+</project>
